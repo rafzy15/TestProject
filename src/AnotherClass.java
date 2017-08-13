@@ -11,7 +11,7 @@
 public class AnotherClass {
 
 	//another conflict comment
-	//comment to get conflict
+
 
     public static void main(String[] args) {
         System.out.println("Change to git");
