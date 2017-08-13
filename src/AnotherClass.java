@@ -10,6 +10,7 @@
  */
 public class AnotherClass {
 	//comment to get conflict
+	//some 
     public static void main(String[] args) {
         System.out.println("Change to git");
     }
