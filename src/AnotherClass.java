@@ -9,6 +9,7 @@
  * @author rafal
  */
 public class AnotherClass {
+	//comment to get conflict
     public static void main(String[] args) {
         System.out.println("Change to git");
     }
